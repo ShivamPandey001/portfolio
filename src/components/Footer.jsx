@@ -26,10 +26,10 @@ const Footer = () => {
 
       <div className='flex flex-col gap-10 items-center justify-center pb-20 '>
         <p className='text-white font-semibold tracking-wider'>
-        <div>
+        <div className="text-center">
         {/* <p className="sub--title">Get In Touch</p> */}
-        <h2 className="text-center">Let's Connect</h2>
-        <p className="text-lg">
+        <h2>Let's Connect</h2>
+        <p className="text-sm	md:font-weight: 600 md:p-0 md:text-lg">
           If you are looking to get ahold of me, you can send me an email at <a href="mailto:cse.shivam98@gmail.com">cse.shivam98@gmail.com</a>.
           <br />
           <p className="text-center">You can also find me on</p>
