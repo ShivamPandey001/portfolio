@@ -20,7 +20,7 @@ const About = () => {
           About Me
         </p>
         <p className='text-lg text-black dark:text-gray-400 leading-10'>
-        I am Shivam Pandey, an aspiring full stack developer with knowledge of latest web technologies. I am proficient in making full blown web applications and especially frontend part of it. I have made static as well as dynamic web pages using HTML, CSS, Javascript & ReactJS. I am proficient in JavaScript and know core Java and C++. Though, I am learning to deal with complex algorithms till now. I am ready to collaborate on projects so I will be ready to contact you.
+        I am Shivam Pandey, an aspiring full stack developer with knowledge of latest web technologies. I've 2+ years of experience at enVista corp, I am proficient in making full blown web applications and especially frontend part of it. I have made static as well as dynamic web pages using HTML, CSS, Javascript & ReactJS. I am proficient in JavaScript and know core Java and C++. Though, I am learning to deal with complex algorithms till now. I am ready to collaborate on projects so I will be ready to contact you.
 
         <br/>Besides all this, I used to write motivational quotes to share on Social Media, just to spread positivity in the environment. I like chilling out on weekends and like to make new and interesting friends.
         </p>
