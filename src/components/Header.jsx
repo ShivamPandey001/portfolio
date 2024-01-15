@@ -43,7 +43,7 @@ const Header = () => {
 
         <p className='text-md text-black dark:text-gray-100 mt-5 2xl:mt-10'>
           Full-Stack  Developer with ability to learn and collaborate in
-          rapidly changing environments and compositions. 
+          rapidly changing environments. 
           <br/>Your dream + my expertise = scalable, performant, reliable, and intuitive products. Let's build something extraordinary!
         </p>
 

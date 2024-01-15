@@ -83,6 +83,7 @@ const Navbar = ({ darkMode, isOpen, toggleMenu, toggleTheme }) => {
             <a href='#projects' onClick={toggleMenu} className='cursor-pointer'>
               Projects
             </a>
+            <a href='/img/Shivam_Pandey_Resume.pdf' onClick={downloadResume}>Download Resume</a>
           </div>
         </div>
       </div>
